@@ -1,0 +1,238 @@
+LOCUS       362._His-mNeon-scramGbT 4522 bp ds-DNA     circular     19-JAN-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    complement(56..64)
+                     /label="Repeat_Unit_1"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     terminator      complement(56..77)
+                     /label="Terminator_1"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    complement(69..77)
+                     /label="Repeat_Unit_2"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     promoter        complement(96..101)
+                     /label="Promoter_P_7"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     promoter        complement(96..124)
+                     /label="RNA\II\Promoter"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     misc_feature    complement(113..120)
+                     /label="Repeat_Unit_3"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     terminator      complement(113..135)
+                     /label="Terminator_2"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     promoter        complement(119..124)
+                     /label="Promoter_P_8"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    complement(128..135)
+                     /label="Repeat_Unit_4"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     CDS             complement(349..1431)
+                     /label="lacI"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     promoter        1555..1571
+                     /label="T7\Promoter"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     protein_bind    1576..1596
+                     /label="lacO"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     RBS             1629..1634
+                     /label="RBS-1"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_binding    1654..1671
+                     /label="His-Tag"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     promoter        1785..1801
+                     /label="T7\promoter"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     protein_bind    1806..1826
+                     /label="lacO"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    1844..2626
+                     /label="PCR product"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     RBS             1857..1862
+                     /label="RBS"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     primer_bind     1871..1875
+                     /label="mNeon-XanTP-gBlock (1 F) - Digestion of pCDFDuet-1- Fragment 2"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     misc_feature    1871..2605
+                     /label="mNeon-XanTP-gBlock (concatenated sequence 2)"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    1871..2605
+                     /label="mNeon-TP1"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     CDS             1871..2605
+                     /label="Translation 1871-2605"
+                     /translation="MHHHHHHGGSVSKGEEDNMASLPATHELHIFGSINGVDFDMVGQGTGNPNDGYEELNLKSTKGDLQFSPWILVPHIGYGFHQYLPYPDGMSPFQAAMVDGSGYQVHRTMQFEDGASLTVNYRYTYEGSHIKGEAQVKGTGFPADGPVMTNSLTAADWCRSKKTYPNDKTIISTFKWSYTTGNGKRYRSTARTTYTFAKPMAANYLKNQPMYVFRKTELKHSKTELNFKEWQKAFTDVMGMDELYK"
+     primer_bind     2311..2330
+                     /label="mNeon-F"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     misc_feature    2606..2611
+                     /label="XmaI cut site"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     CDS             2606..2626
+                     /label="Translation 2606-2626"
+                     /translation="SGSGGSG"
+     misc_feature    2627..2662
+                     /label="scrambled QtTp"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     CDS             2627..2665
+                     /label="Translation 2627-2665"
+                     /translation="TLGQSVKGFKIK*"
+     misc_feature    2667..1870
+                     /label="pCDF backbone NdeI/XhoI"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     protein_bind    2678..2722
+                     /label="S-Tag"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     misc_feature    complement(2760..2778)
+                     /label="T7\Terminator\primer"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     terminator      2774..2821
+                     /label="T7\Terminator"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     CDS             complement(2995..3783)
+                     /label="aadA\(Correct,\original\source\Tn21)"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     RBS             complement(3789..3793)
+                     /label="RBS"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     -10_signal      complement(3825..3831)
+                     /label="-10\Ap"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     -35_signal      complement(3848..3853)
+                     /label="-35\Ap"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     rep_origin      complement(3923..139)
+                     /label="CloDF13\ori"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     rep_origin      4014..4014
+                     /label="Replication\Origin"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     promoter        4466..4471
+                     /label="Promoter_P_5"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     promoter        4466..4495
+                     /label="RNA\I\promoter"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     promoter        4490..4495
+                     /label="Promoter_P_6"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+ORIGIN
+        1 tgcgaaagcc agttaccacg gttaagcagt tccccaactg acttaacctt cgatcaaacc
+       61 acctccccag gtggtttttt cgtttacagg gcaaaagatt acgcgcagaa aaaaaggatc
+      121 tcaagaagat cctttgatct tttctactga accgctctag atttcagtgc aatttatctc
+      181 ttcaaatgta gcacctgaag tcagccccat acgatataag ttgtaattct catgttagtc
+      241 atgccccgcg cccaccggaa ggagctgact gggttgaagg ctctcaaggg catcggtcga
+      301 gatcccggtg cctaatgagt gagctaactt acattaattg cgttgcgctc actgcccgct
+      361 ttccagtcgg gaaacctgtc gtgccagctg cattaatgaa tcggccaacg cgcggggaga
+      421 ggcggtttgc gtattgggcg ccagggtggt ttttcttttc accagtgaga cgggcaacag
+      481 ctgattgccc ttcaccgcct ggccctgaga gagttgcagc aagcggtcca cgctggtttg
+      541 ccccagcagg cgaaaatcct gtttgatggt ggttaacggc gggatataac atgagctgtc
+      601 ttcggtatcg tcgtatccca ctaccgagat gtccgcacca acgcgcagcc cggactcggt
+      661 aatggcgcgc attgcgccca gcgccatctg atcgttggca accagcatcg cagtgggaac
+      721 gatgccctca ttcagcattt gcatggtttg ttgaaaaccg gacatggcac tccagtcgcc
+      781 ttcccgttcc gctatcggct gaatttgatt gcgagtgaga tatttatgcc agccagccag
+      841 acgcagacgc gccgagacag aacttaatgg gcccgctaac agcgcgattt gctggtgacc
+      901 caatgcgacc agatgctcca cgcccagtcg cgtaccgtct tcatgggaga aaataatact
+      961 gttgatgggt gtctggtcag agacatcaag aaataacgcc ggaacattag tgcaggcagc
+     1021 ttccacagca atggcatcct ggtcatccag cggatagtta atgatcagcc cactgacgcg
+     1081 ttgcgcgaga agattgtgca ccgccgcttt acaggcttcg acgccgcttc gttctaccat
+     1141 cgacaccacc acgctggcac ccagttgatc ggcgcgagat ttaatcgccg cgacaatttg
+     1201 cgacggcgcg tgcagggcca gactggaggt ggcaacgcca atcagcaacg actgtttgcc
+     1261 cgccagttgt tgtgccacgc ggttgggaat gtaattcagc tccgccatcg ccgcttccac
+     1321 tttttcccgc gttttcgcag aaacgtggct ggcctggttc accacgcggg aaacggtctg
+     1381 ataagagaca ccggcatact ctgcgacatc gtataacgtt actggtttca cattcaccac
+     1441 cctgaattga ctctcttccg ggcgctatca tgccataccg cgaaaggttt tgcgccattc
+     1501 gatggtgtcc gggatctcga cgctctccct tatgcgactc ctgcattagg aaattaatac
+     1561 gactcactat aggggaattg tgagcggata acaattcccc tgtagaaata attttgttta
+     1621 actttaataa ggagatatac catgggcagc agccatcacc atcatcacca cagccaggat
+     1681 ccgaattcga gctcggcgcg cctgcaggtc gacaagcttg cggccgcata atgcttaagt
+     1741 cgaacagaaa gtaatcgtat tgtacacggc cgcataatcg aaattaatac gactcactat
+     1801 aggggaattg tgagcggata acaattcccc atcttagtat attagttaag tataagaagg
+     1861 agatatacat atgcaccacc atcatcatca cggaggttca gtctccaagg gagaggagga
+     1921 caatatggct agtcttccgg ccactcatga gttacatatc ttcggatcca taaacggcgt
+     1981 tgatttcgat atggtgggtc aaggcactgg taaccccaat gatggctacg aagaacttaa
+     2041 cttaaaatct actaaaggcg atcttcagtt ttccccatgg atacttgtgc ctcatattgg
+     2101 ctacgggttt caccaatatc tgccttatcc ggatggaatg tcccccttcc aagccgcaat
+     2161 ggtagacggc agtggctatc aagtccaccg taccatgcag tttgaagatg gcgcatccct
+     2221 gacagttaat tatcggtata catacgaggg gtcgcatatt aaaggagagg cgcaagtcaa
+     2281 ggggacaggg tttcccgccg atgggccagt catgacaaac tcgttaactg ccgccgactg
+     2341 gtgcagatcg aagaaaacct acccaaacga taagacgatc atatctacct ttaaatggtc
+     2401 ttacactacg ggtaacggaa aacgctacag atcaaccgcg cggacaacgt acacctttgc
+     2461 taagcccatg gcagcgaact acttgaagaa tcagccgatg tacgtgttta gaaagaccga
+     2521 gcttaaacac tcgaaaactg aattgaattt taaagaatgg cagaaagctt ttacggacgt
+     2581 aatgggcatg gacgaactgt ataagTCCGG GTCGGGAGGC TCCGGAACGC TGGGACAGTC
+     2641 CGTGAAGGGC TTCAAGATCA AATAActcga gtctggtaaa gaaaccgctg ctgcgaaatt
+     2701 tgaacgccag cacatggact cgtctactag cgcagcttaa ttaacctagg ctgctgccac
+     2761 cgctgagcaa taactagcat aaccccttgg ggcctctaaa cgggtcttga ggggtttttt
+     2821 gctgaaacct caggcatttg agaagcacac ggtcacactg cttccggtag tcaataaacc
+     2881 ggtaaaccag caatagacat aagcggctat ttaacgaccc tgccctgaac cgacgaccgg
+     2941 gtcatcgtgg ccggatcttg cggcccctcg gcttgaacga attgttagac attatttgcc
+     3001 gactaccttg gtgatctcgc ctttcacgta gtggacaaat tcttccaact gatctgcgcg
+     3061 cgaggccaag cgatcttctt cttgtccaag ataagcctgt ctagcttcaa gtatgacggg
+     3121 ctgatactgg gccggcaggc gctccattgc ccagtcggca gcgacatcct tcggcgcgat
+     3181 tttgccggtt actgcgctgt accaaatgcg ggacaacgta agcactacat ttcgctcatc
+     3241 gccagcccag tcgggcggcg agttccatag cgttaaggtt tcatttagcg cctcaaatag
+     3301 atcctgttca ggaaccggat caaagagttc ctccgccgct ggacctacca aggcaacgct
+     3361 atgttctctt gcttttgtca gcaagatagc cagatcaatg tcgatcgtgg ctggctcgaa
+     3421 gatacctgca agaatgtcat tgcgctgcca ttctccaaat tgcagttcgc gcttagctgg
+     3481 ataacgccac ggaatgatgt cgtcgtgcac aacaatggtg acttctacag cgcggagaat
+     3541 ctcgctctct ccaggggaag ccgaagtttc caaaaggtcg ttgatcaaag ctcgccgcgt
+     3601 tgtttcatca agccttacgg tcaccgtaac cagcaaatca atatcactgt gtggcttcag
+     3661 gccgccatcc actgcggagc cgtacaaatg tacggccagc aacgtcggtt cgagatggcg
+     3721 ctcgatgacg ccaactacct ctgatagttg agtcgatact tcggcgatca ccgcttccct
+     3781 catactcttc ctttttcaat attattgaag catttatcag ggttattgtc tcatgagcgg
+     3841 atacatattt gaatgtattt agaaaaataa acaaatagct agctcactcg gtcgctacgc
+     3901 tccgggcgtg agactgcggc gggcgctgcg gacacataca aagttaccca cagattccgt
+     3961 ggataagcag gggactaaca tgtgaggcaa aacagcaggg ccgcgccggt ggcgtttttc
+     4021 cataggctcc gccctcctgc cagagttcac ataaacagac gcttttccgg tgcatctgtg
+     4081 ggagccgtga ggctcaacca tgaatctgac agtacgggcg aaacccgaca ggacttaaag
+     4141 atccccaccg tttccggcgg gtcgctccct cttgcgctct cctgttccga ccctgccgtt
+     4201 taccggatac ctgttccgcc tttctccctt acgggaagtg tggcgctttc tcatagctca
+     4261 cacactggta tctcggctcg gtgtaggtcg ttcgctccaa gctgggctgt aagcaagaac
+     4321 tccccgttca gcccgactgc tgcgccttat ccggtaactg ttcacttgag tccaacccgg
+     4381 aaaagcacgg taaaacgcca ctggcagcag ccattggtaa ctgggagttc gcagaggatt
+     4441 tgtttagcta aacacgcggt tgctcttgaa gtgtgcgcca aagtccggct acactggaag
+     4501 gacagatttg gttgctgtgc tc
+//
